@@ -57,17 +57,14 @@ Soy Emilio, un ingeniero en informática con 2 años de experiencia en desarroll
 
 ### 📌 Proyectos Destacados
 
-1. **[E-commerce con IA](https://github.com/Emiliooo90/ecommerce-IA)**  
-   Plataforma con recomendaciones personalizadas mediante inteligencia artificial.
+1. **[Portfolio Personal](https://emiliojcrp.cl/)**  
+   Sitio web personal desarrollado con React, mostrando mi experiencia y proyectos profesionales con un diseño moderno y responsive.
 
-2. **[Transcripción Automática de Audios y Videos](https://github.com/Emiliooo90/transcripcion-audio-video)**  
-   Sistema de transcripción en tiempo real usando APIs de procesamiento de lenguaje natural.
+2. **[Gaud-e App](https://www.gaud-e.app/)**  
+   Plataforma de IA para arquitectura y diseño que permite generar imágenes, videos y modelos 3D. Desarrollada con Python y Django, integrando la API de Stability AI para la generación de contenido visual.
 
-3. **[Gestión de Proyectos para Construcción](https://github.com/Emiliooo90/gestion-proyectos-construccion)**  
-   Aplicación SaaS que optimiza la productividad en la construcción.
-
-4. **[Sistema de Créditos en Django](https://github.com/Emiliooo90/sistema-creditos-django)**  
-   Plataforma completa de gestión de créditos, integrando autenticación y manejo de usuarios.
+3. **[Creando Arte Chile](https://creandoartechile.cl/)**  
+   E-commerce especializado en productos de arte y papelería, desarrollado con Django y React. Incluye sistema de pagos, gestión de inventario y panel administrativo personalizado.
 
 ---
 
