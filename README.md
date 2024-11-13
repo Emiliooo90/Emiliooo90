@@ -3,7 +3,7 @@
 **Ingeniero en Informática**  
 Apasionado por el desarrollo Fullstack y la creación de soluciones web innovadoras.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EmilioRomero-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-romero-pereira-6129221ba/) [![Gmail](https://img.shields.io/badge/Email-emilioskr@gmail.com-red?logo=gmail&logoColor=white)](mailto:emilioskr@gmail.com) [![GitHub](https://img.shields.io/github/followers/Emiliooo90?label=GitHub&style=social)](https://github.com/Emiliooo90)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EmilioRomero-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-romero-pereira-6129221ba/) [![Gmail](https://img.shields.io/badge/Email-emilioskr@gmail.com-red?logo=gmail&logoColor=white)](mailto:emilioskr@gmail.com) [![GitHub](https://img.shields.io/github/followers/Emiliooo90?label=GitHub&style=social)](https://github.com/Emiliooo90) [![YouTube](https://img.shields.io/badge/YouTube-@Emiliosk11-red?logo=youtube&logoColor=white)](https://www.youtube.com/@Emiliosk11)
 
 ---
 
@@ -69,7 +69,7 @@ Soy Emilio, un ingeniero en informática con 2 años de experiencia en desarroll
 ---
 
 ### 🌐 Conecta Conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EmilioRomero-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-romero-pereira-6129221ba/) [![Email](https://img.shields.io/badge/Email-emilioskr@gmail.com-red?logo=gmail&logoColor=white)](mailto:emilioskr@gmail.com) [![GitHub](https://img.shields.io/github/followers/Emiliooo90?label=GitHub&style=social)](https://github.com/Emiliooo90)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EmilioRomero-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-romero-pereira-6129221ba/) [![Email](https://img.shields.io/badge/Email-emilioskr@gmail.com-red?logo=gmail&logoColor=white)](mailto:emilioskr@gmail.com) [![GitHub](https://img.shields.io/github/followers/Emiliooo90?label=GitHub&style=social)](https://github.com/Emiliooo90) [![YouTube](https://img.shields.io/badge/YouTube-@Emiliosk11-red?logo=youtube&logoColor=white)](https://www.youtube.com/@Emiliosk11)
 
 ---
 
