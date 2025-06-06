@@ -60,7 +60,7 @@ Soy Emilio, un ingeniero en informática con 2 años de experiencia en desarroll
 1. **[Portfolio Personal](https://emiliojcrp.cl/)**  
    Sitio web personal desarrollado con React, mostrando mi experiencia y proyectos profesionales con un diseño moderno y responsive.
 
-2. **[Gaud-e App](https://www.gaud-e.app/)**  
+2. **[Gaud-e App](https://emilioduocuc.pythonanywhere.com/)**  
    Plataforma de IA para arquitectura y diseño que permite generar imágenes, videos y modelos 3D. Desarrollada con Python y Django, integrando la API de Stability AI para la generación de contenido visual.
 
 3. **[Creando Arte Chile](https://creandoartechile.cl/)**  
